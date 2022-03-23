@@ -1,0 +1,22 @@
+<html>
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+<body style="background-color: #e1f5fe;">
+    <div style="">
+        <div style="border-radius: 10px 10px 10px 10px; background-color: white;margin-right: 200px;padding-left: 45px; margin-left: 460px; margin-top: 50px; border: 2px solid white;"><br>
+            <img src="image-qr-code.png" alt="QR" width="120px"
+                style="width: 200; border: 1px solid; border-radius: 10px 10px 10px 10px;"><br>
+            <br><div style="width: 207px;color: black; margin: 0; font-weight: 700;">
+                Improve your front end skills by building projects.
+            </div><br>
+            <div style="font-size: 15px; color: black; font-weight: 400; width: 215px;">
+                Scan the QR code to visit frontend mentor and take your coding skills to next level.
+            </div><br>
+        </div>
+    </div>
+</body>
+
+</html>
